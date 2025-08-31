@@ -20,5 +20,5 @@ Lightweight, fast, and designed with clean Android architecture (MVVM + Jetpack)
 - [Room](https://developer.android.com/training/data-storage/room)  
 - [Dagger](https://dagger.dev/)  
 - [KSP](https://kotlinlang.org/docs/ksp-overview.html)  
-- [Jetpack](https://developer.android.com/jetpack) (LiveData, ViewModel, etc.)  
+- [Jetpack](https://developer.android.com/jetpack) (Flows, ViewModel, etc.)  
 
