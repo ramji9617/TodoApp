@@ -11,7 +11,7 @@ Lightweight, fast, and designed with clean Android architecture (MVVM + Jetpack)
 - 💾 Offline storage using Room Database  
 - ⚡ Dependency Injection with Dagger  
 - 🚀 Faster builds with Kotlin Symbol Processing (KSP)  
-- 🎨 Clean MVVM architecture with Jetpack components  
+- 🎨 Clean architecture with Jetpack components  
 
 
 
